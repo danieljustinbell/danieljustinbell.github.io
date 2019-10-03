@@ -1,4 +1,1 @@
-index.md---
-layout: default
----
-Indices matter.
+index.md
